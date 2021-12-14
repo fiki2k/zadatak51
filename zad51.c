@@ -8,7 +8,6 @@ int main()
 
    //Unesi radijus kruga
    printf("\nUnesi radijus kruga: ");
-   //Storing the user input into variable circle_radius
    scanf("%d",&radijus);
 
    //Izracunaj povrsinu kruga
